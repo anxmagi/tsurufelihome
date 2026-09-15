@@ -1,9 +1,5 @@
 {
-  "kind": "firebase",
-  "apiKey": "AIzaSyBDdd1oiksBdEMQpCEEBJDYAAd2AtxoCdE",
-  "authDomain": "tsurufelihome.firebaseapp.com",
-  "projectId": "tsurufelihome",
-  "storageBucket": "tsurufelihome.firebasestorage.app",
-  "appId": "1:727917220429:web:082ba25d26f450c8ad4204",
-  "messagingSenderId": "727917220429"
+  "kind": "supabase",
+  "url": "https://icsoefauooiqzsogdjzo.supabase.co",
+  "anonKey": "sb_publishable_1RZarECTZ6gKGqT3UetQvw_VpCOO7Xl"
 }
